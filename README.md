@@ -10,10 +10,7 @@ I am a passionate **Full-Stack & Mobile Application Developer** dedicated to bui
 - Currently working on commission projects, specialized information systems, and developing mobile apps.
 - Continuous learner holding industry certifications from DICT, Google, and Cisco.
 
-
-<br><br>
-<hr style="height= 15px; background:#004196">
-
+---
 
 ### Tech Stack & Tools
 Below are the languages, frameworks, and tools I frequently use in my development workflow:
@@ -57,9 +54,7 @@ Below are the languages, frameworks, and tools I frequently use in my developmen
     </tr>
 </table>
 
-
-<br><br>
-<hr style="height= 15px; background:#004196">
+---
 
 ### Featured Projects
 
@@ -93,10 +88,7 @@ Below are the languages, frameworks, and tools I frequently use in my developmen
     </tr>
 </table>
 
-
-<br><br>
-<hr style="height= 15px; background:#004196">
-
+---
 
 ### Get in Touch
 I am always open to discussing new projects and opportunities. To keep project details organized and well-documented, I prefer asynchronous communication like email or chat rather than hopping on calls.
